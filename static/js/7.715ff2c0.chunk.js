@@ -1,0 +1,2 @@
+(this.webpackJsonpmarvel=this.webpackJsonpmarvel||[]).push([[7],{34:function(t,e,r){"use strict";var s=r.p+"static/media/error.42292aa1.gif",c=r(0);e.a=function(){return Object(c.jsx)("img",{src:s,alt:"error"})}},53:function(t,e,r){"use strict";r.r(e);var s=r(34),c=r(8),i=r(0);e.default=function(){return Object(i.jsxs)("div",{children:[Object(i.jsx)(s.a,{}),Object(i.jsx)("p",{children:"Page doesn't exist"}),Object(i.jsx)(c.b,{to:"/",children:"Go to main page"})]})}}}]);
+//# sourceMappingURL=7.715ff2c0.chunk.js.map
